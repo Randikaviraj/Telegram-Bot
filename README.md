@@ -1,4 +1,7 @@
 # Telegram Bot
+
+[![Python application](https://github.com/Randikaviraj/Telegram-Bot/actions/workflows/python-app.yml/badge.svg)](https://github.com/Randikaviraj/Telegram-Bot/actions/workflows/python-app.yml)
+
 ## _Bots for constrol telegram
 
 
